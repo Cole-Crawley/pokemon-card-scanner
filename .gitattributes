@@ -1,0 +1,7 @@
+# Keep GitHub language stats about the Flutter app, not generated platform code
+ios/Pods/** linguist-vendored
+android/app/.cxx/** linguist-generated
+linux/** linguist-generated
+windows/** linguist-generated
+macos/** linguist-generated
+ios/Runner/** linguist-generated
