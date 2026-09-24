@@ -108,4 +108,4 @@ Home, search and profile:
 
 ![Home, search and profile](docs/scanner-app.webp)
 
-*Made by [Cole Crawley](https://colecrawley.vercel.app).*
+*Made by [Cole Crawley](https://colecrawley.com).*
