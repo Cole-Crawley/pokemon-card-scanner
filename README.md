@@ -2,7 +2,7 @@
 
 Point your phone at a Pokémon card and the app identifies it, looks up what it's worth today, and adds it to your collection. Two image-recognition models run on the phone itself, and prices come from live market data.
 
-This was my BSc Computer Science dissertation at the University of Lincoln (October 2024 to May 2025): *Pokémon TCG Scanner Application: Exploring Transfer Learning in AI for Real-time Card Identification and Market Price Analysis.*
+This was my BSc Computer Science dissertation at the University of Lincoln (October 2024 to May 2025), awarded a First: *Pokémon TCG Scanner Application: Exploring Transfer Learning in AI for Real-time Card Identification and Market Price Analysis.*
 
 ![Flutter](https://img.shields.io/badge/Flutter-Dart-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow-Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
